@@ -1,0 +1,10 @@
+.form_fields {
+    display: grid;
+    grid-template-rows: 70px 70px 70px;
+    width: 50%;
+}
+
+.register_form_btn {
+    position: relative;
+    left: 20%;
+}

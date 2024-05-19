@@ -1,0 +1,20 @@
+.events_block {
+    display: grid;
+    grid-template-columns: 350px 350px 350px 350px;
+}
+
+.sort_by_form_control {
+    width: 25%;
+}
+
+.order_by_form_control {
+    width: 25%;
+}
+
+.events_pagination {
+    position: fixed;
+    top: 92%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

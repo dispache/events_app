@@ -1,0 +1,24 @@
+.participants_block {
+    display: grid;
+    grid-template-columns: 350px 350px 350px 350px;
+    margin-left: 1%;
+}
+
+.event_title_block {
+    margin-left: 2%;
+}
+
+.search_block {
+    margin-left: 3%;
+    display: grid;
+    grid-template-columns: 310px 350px;
+}
+
+.search_block_btns {
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.search_input {
+    width: 100%;
+}

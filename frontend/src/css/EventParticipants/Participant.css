@@ -1,0 +1,11 @@
+.participant_block {
+    margin-left: 5%;
+    margin-top: 10%;
+    border: 1px solid black;
+    border-radius: 2.5vh;
+    height: 20vh;
+}
+
+.participant_block > p {
+    margin-left: 5%;
+}
